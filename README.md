@@ -72,5 +72,18 @@ Consequently, the core mandate of OHCA is not data management, but the provision
 
 ---
 
+## Legal Disclaimer & Proprietary Status
+
+### Legal Disclaimer (AS IS)
+This documentation is provided "as is" for theoretical, educational, and research purposes only. The author is an independent individual, not a corporate entity. The author makes no warranties, express or implied, regarding the accuracy, safety, or feasibility of the described hardware architecture. Any attempt to replicate or implement this high-pressure fluidic system is done entirely at the user's own risk, and the author shall not be held liable for any damages, structural failures, or legal consequences arising from its use.
+
+### Proprietary Information & Trade Secrets
+The core fluidic computation principles detailed herein represent the author's independent intellectual property. The foundational data-storage layer, processing pipelines, and core synchronization methodologies are strictly classified as proprietary trade secrets and will not be disclosed in public repositories. 
+
+### Automated Scraping & AI Policy
+Automated extraction, harvesting, or scraping of this repository's text and concepts by industrial web scrapers, data-mining bots, or for the purpose of training Large Language Models (LLMs) is strictly prohibited without express written authorization.
+
+---
+
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org).
 
