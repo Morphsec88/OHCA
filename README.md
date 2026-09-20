@@ -1,5 +1,6 @@
 
-<img width="1536" height="1024" alt="OCHA" src="https://github.com/user-attachments/assets/3b5d3595-4bbd-4d3c-a9a2-e0f5ab7a4be8" />
+<img width="1536" height="1024" alt="OHCA" src="https://github.com/user-attachments/assets/586d49ea-ad9e-4bb3-89fe-782cf99ef0eb" />
+
 
 
 # Optofluidic Hydrodynamic Computing Architecture (OHCA)
