@@ -1,3 +1,7 @@
+
+<img width="1536" height="1024" alt="OCHA" src="https://github.com/user-attachments/assets/3b5d3595-4bbd-4d3c-a9a2-e0f5ab7a4be8" />
+
+
 # Optofluidic Hydrodynamic Computing Architecture (OHCA)
 
 A non-silicon, analog-photonic computing architecture that utilizes a closed-loop, oscillating fluidic core driven by alternating pneumatic pressure. The system harnesses non-linear optical wave-material interactions within a localized substrate to execute deterministic, massively parallel matrix and logic operations without solid-state semiconductors.
