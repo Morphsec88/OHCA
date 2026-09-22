@@ -65,3 +65,13 @@ state encoding and expanded state‑space dynamics.
 *   **Multi-Dimensional Modulation:** Security is derived from the system's ability to modulate mathematical codes across multiple independent dimensions simultaneously.
 *   **Exponential State Space:** Within just a single dimension, the architecture yields an astonishing **$4^{1,000,000}$ (four to the power of one million)** possible state combinations **per byte**. 
 *   **Infinite Layering:** Additional geometric and physical dimensions can be layered on top of this base, compounding the complexity exponentially and guaranteeing absolute, permanent cryptographic unbreakability.
+
+## Disclaimer & Theoretical Foundation
+*   **Projections and Estimations:** As a fully functional physical model is currently under development, the performance metrics and capacities stated above are preliminary and for informational purposes only.
+*   **Mathematical Context:** These figures are strictly derived, calculated, and extrapolated from the underlying proprietary mathematical structures and the multi-dimensional scaling capabilities of the architecture.
+
+## Dual-Pillar Sector Disruption
+The complete ecosystem consists of two parallel, interconnected developments, each independently designed to completely reshape the global technology sector:
+
+1.  **OHCA (Optical High-Capacity Architecture):** The multi-dimensional optical and liquid-based processing core, eliminating traditional memory and thermal limitations.
+2.  **Core Recursion (Codename: C_III_N_C):** A revolutionary data paradigm designed to completely replace traditional databanks and data centers. Under this architecture, all historically accumulated byte-based data will cease to exist within the physical and spatial dimensions known today, compressing the global storage footprint beyond recognition.
