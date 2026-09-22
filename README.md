@@ -1,5 +1,6 @@
 
-<img width="1536" height="1024" alt="OHCA" src="https://github.com/user-attachments/assets/586d49ea-ad9e-4bb3-89fe-782cf99ef0eb" />
+<img width="5320" height="2224" alt="OHCA (2)" src="https://github.com/user-attachments/assets/1da2c98d-55da-4227-9939-5d62206bce4f" />
+
 
 
 
