@@ -60,8 +60,8 @@ state encoding and expanded state‑space dynamics.
 *   **Egress Reconstruction:** At the exit point, the architecture instantly converts optical patterns extracted from the liquid back into standard, production-ready bytes for host hardware (e.g., GPUs, CPUs).
 *   **Asymmetric Scale:** The conversion engine seamlessly bridges the gap between the internal **2 MB** initiation code and the external **9 PB** data payload.
 
-*   ## Absolute Cryptographic Security
+## Absolute Cryptographic Security
 *   **Unbreakable by Design:** The OHCA framework is mathematically and physically unbreakable, rendering conventional decryption and brute-force methods entirely obsolete.
 *   **Multi-Dimensional Modulation:** Security is derived from the system's ability to modulate mathematical codes across multiple independent dimensions simultaneously.
 *   **Exponential State Space:** Within just a single dimension, the architecture yields an astonishing **$4^{1,000,000}$ (four to the power of one million)** possible state combinations **per byte**. 
-*   **Infinite Layering:** Additional geometric and physical dimensions can be layered on top of this base, compounding the complexity exponentially and guaranteeing absolute, permanent cryptographic invulnerability.
+*   **Infinite Layering:** Additional geometric and physical dimensions can be layered on top of this base, compounding the complexity exponentially and guaranteeing absolute, permanent cryptographic unbreakability.
