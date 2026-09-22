@@ -1,10 +1,5 @@
 
 
-
-
-https://github.com/user-attachments/assets/c1833b3b-1063-4ea4-874b-8bd0024ee983
-
-
 <img width="5320" height="2224" alt="OHCA (2)" src="https://github.com/user-attachments/assets/1da2c98d-55da-4227-9939-5d62206bce4f" />
 
 
