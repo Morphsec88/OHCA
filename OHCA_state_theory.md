@@ -75,3 +75,20 @@ The complete ecosystem consists of two parallel, interconnected developments, ea
 
 1.  **OHCA (Optical High-Capacity Architecture):** The multi-dimensional optical and liquid-based processing core, eliminating traditional memory and thermal limitations.
 2.  **Core Recursion (Codename: C_III_N_C):** A revolutionary data paradigm designed to completely replace traditional databanks and data centers. Under this architecture, all historically accumulated byte-based data will cease to exist within the physical and spatial dimensions known today, compressing the global storage footprint beyond recognition.
+
+3.  ### External Static Fields for Inward Fluid Bias and Reduced Wall Wear
+
+In the current OHCA channel concept, static electric fields are applied **exclusively from outside the channel geometry**. Circular and square cross‑sections allow external electrodes to generate a **radially inward, non‑uniform electric field** that gently biases the fluid toward the center region.
+
+This inward bias is not intended to increase mechanical pressure; instead, it helps **reduce the effective kinetic impact on the channel walls**, lowering long‑term wall wear caused by high‑energy flow patterns and micro‑vortices. By shifting the flow distribution away from the boundaries, the system maintains more stable wall conditions while preserving full dynamic behavior inside the channel.
+———————————
+
+The external static field also provides an additional modulation layer: it can subtly alter the fluid’s internal density profile, surface tension, and flow symmetry without requiring any internal components or added structural complexity. This approach introduces a non‑mechanical control mechanism that complements the existing optical and acoustic modulation layers within the OHCA architecture.
+
+### Hypothetical Cell‑Scale Modulation Layer
+
+As a forward‑looking theoretical extension, it is not excluded that the OHCA architecture could be explored for **cell‑scale modulation** under strictly controlled and biologically safe parameter regimes. The concept assumes that a combination of **structured static electric fields**, **precisely shaped optical patterns**, and **finely tuned ultrasound fields** may create localized micro‑environments within the fluid.
+
+In this hypothetical framework, static fields would define slow, spatially stable polarization landscapes, while light and ultrasound introduce higher‑frequency, directionally controlled modulation layers. Together, these channels could—in principle—produce **highly specific field signatures** inside the medium. Such signatures may interact with cell‑scale physical properties (e.g., membrane polarization, mechanical stress sensitivity, or optical absorption characteristics) in a predictable and reproducible manner.
+
+This section describes only a **theoretical possibility** within the OHCA field‑architecture model. Any biological relevance, application, or effect would require dedicated research, validation, and strict safety constraints. The intention here is solely to outline how coordinated static, optical, and acoustic field shaping could form a potential future direction for micro‑scale modulation studies within the OHCA framework.
